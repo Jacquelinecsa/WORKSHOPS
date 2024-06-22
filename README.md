@@ -1,2 +1,2 @@
-# WORKSHOPS
+# workshops
 ### Coming soon
